@@ -1,0 +1,31 @@
+{
+  "name": "hotnews-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolfishstudio/hotnews-api.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Yves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolfishstudio/hotnews-api/issues"
+  },
+  "homepage": "https://github.com/coolfishstudio/hotnews-api#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "redis": "^2.5.3",
+    "request": "^2.72.0"
+  }
+}
