@@ -8,6 +8,8 @@
 * Engineer : Yves <461836324@qq.com>
 * CreateTime : 2016-05-12
 
+注意数据存在缓存中
+
 ## Installation
 ```
     $ git clone https://github.com/coolfishstudio/hotnews-api.git
